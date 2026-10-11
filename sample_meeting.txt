@@ -1,0 +1,11 @@
+
+Project Development Meeting
+
+Priya: We need to finalize the architecture for our new application.
+Rahul: I will implement the payment API by Friday.
+Priya: I will prepare the frontend design by Monday.
+Aarav: I will complete the API documentation by Wednesday.
+Rahul: We should use MongoDB for the database.
+Priya: Agreed. We have decided to use MongoDB.
+Aarav: We still need to select a payment gateway.
+Rahul: I can review the authentication module next week.
